@@ -2,14 +2,11 @@
 
 ### Мои контакты:
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iurkinvalentin92@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@valentiniurkin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/valentiniurkin)
 
 - 🔭 Я ищу работу Backend-разработчиком.
 - 📄 Мое резюме: [HH.ru](https://hh.ru/resume/30a5f98fff0d80cbe30039ed1f335754456454)
 - 🌟 Мои проекты доступны [здесь](https://github.com/iurkinvalentin?tab=repositories)
-- 🚀 Мой LeetCode: ![Leetcode](https://leetcode.com/u/valentiniurkin/)
-
 ---
 
 ### 🛠 Использую технологии:
