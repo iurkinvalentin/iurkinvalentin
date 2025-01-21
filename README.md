@@ -14,8 +14,6 @@
 
 ### 🛠 Использую технологии:
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-### 🛠 Использую технологии:
-
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
 ![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-red?style=for-the-badge&logo=django)
@@ -30,18 +28,4 @@
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 ![Pytest](https://img.shields.io/badge/Pytest-yellow?style=for-the-badge&logo=pytest)
 ![WebSocket](https://img.shields.io/badge/WebSocket-blue?style=for-the-badge&logo=websocket)
-
-
----
-
-### Популярные репозитории:
-- [**Cat energy**](https://github.com/ваш_профиль/cat-energy) - Адаптивный интернет-магазин корма для кошек.
-- [**Кекстаграм**](https://github.com/ваш_профиль/kekstagram) - Социальная сеть для обмена фотографиями.
-- [**Ботаники**](https://github.com/ваш_профиль/botaniki) - Сайт дизайн-студии Nerds.
-- [**Кексобукинг**](https://github.com/ваш_профиль/keksobooking) - Сервис аренды недвижимости в центре Токио.
-
----
-
-
-
 
