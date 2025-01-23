@@ -11,7 +11,6 @@
 
 ### 🛠 Использую технологии:
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django)
 ![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-red?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
